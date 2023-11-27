@@ -33,7 +33,10 @@ const Navbar = () => {
                         </div>
                         <div className="nice-form-group">
                             <label>Upload MP3 </label>
-                            <input type="file" />
+                            <select>
+                            <option></option>
+                            
+                        </select>
                         </div>
                     </div>
                     
